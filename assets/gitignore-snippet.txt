@@ -1,0 +1,7 @@
+# Keep private character artwork out; retain public README media.
+/assets/*
+!/assets/readme/
+!/assets/readme/**
+.venv/
+__pycache__/
+*.pyc
